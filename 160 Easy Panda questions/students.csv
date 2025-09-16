@@ -1,0 +1,11 @@
+StudentID,Name,Age,Grade,Department,Email
+1,Priyanka,20,A,Computer Science,priyanka@example.com
+2,Rahul,21,B,Mechanical,rahul@example.com
+3,Anita,19,A,Electrical,anita@example.com
+4,Vikram,22,C,Civil,vikram@example.com
+5,Sneha,20,B,Computer Science,sneha@example.com
+6,Arjun,23,B,Mechanical,arjun@example.com
+7,Kavya,21,A,Electrical,kavya@example.com
+8,Manish,22,C,Civil,manish@example.com
+9,Divya,20,B,Computer Science,divya@example.com
+10,Ramesh,24,A,Mechanical,ramesh@example.com
